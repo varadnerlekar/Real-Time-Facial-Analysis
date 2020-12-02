@@ -8,5 +8,7 @@ Link: https://www.kaggle.com/shawon10/ckplus
 
 
 To try it out, Clone this repository and run testing.py
+
 Give the required permissions.
+
 Plain Colored Background is recommended for better results.
